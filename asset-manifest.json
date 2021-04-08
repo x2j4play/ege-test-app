@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ege-test-app/static/css/main.3e3b9045.chunk.css",
-    "main.js": "/ege-test-app/static/js/main.aa9ab1b4.chunk.js",
-    "main.js.map": "/ege-test-app/static/js/main.aa9ab1b4.chunk.js.map",
+    "main.js": "/ege-test-app/static/js/main.29ea2567.chunk.js",
+    "main.js.map": "/ege-test-app/static/js/main.29ea2567.chunk.js.map",
     "runtime-main.js": "/ege-test-app/static/js/runtime-main.eee4dbe6.js",
     "runtime-main.js.map": "/ege-test-app/static/js/runtime-main.eee4dbe6.js.map",
     "static/css/2.150d169a.chunk.css": "/ege-test-app/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.d6c11518.chunk.js",
     "static/css/main.3e3b9045.chunk.css",
-    "static/js/main.aa9ab1b4.chunk.js"
+    "static/js/main.29ea2567.chunk.js"
   ]
 }
