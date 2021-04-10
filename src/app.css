@@ -1,0 +1,133 @@
+@media (max-width: 768px) {
+    .row {
+        font-size: small;
+    }
+
+    .card-ticket-home {
+        width: 50%;
+        min-width: 50%;
+    }
+}
+
+@media (max-width: 992px) {
+    .card-ticket-home {
+        min-width: 50%;
+        width: 50%;
+    }
+}
+
+@media (max-width: 600px) {
+    .row {
+        font-size: small;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        float: none !important;
+        display: block;
+        margin: 0.5rem auto !important;
+    }
+
+    .btn-next-bottom {
+        margin-top: 1rem;
+    }
+
+    .row-next-bottom {
+        text-align: center;
+    }
+
+    .card-ticket-home {
+        width: 100%;
+    }
+}
+
+.input-group-text {
+    font-size: inherit;
+}
+
+.card-row-home {
+    padding: 0;
+}
+
+.card-ticket-home {
+    min-width: 33.333333%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    float: none !important;
+    margin: auto !important;
+    display: block;
+}
+
+img.tex {
+    display: initial;
+}
+
+.row-next-bottom {
+    text-align: center;
+}
+
+.btn-next-bottom {
+    margin-top: 1rem;
+}
+
+.form-control {
+    font-size: inherit;
+}
+
+.btn {
+    font-size: inherit;
+}
+
+.card {
+    margin-top: 1em;
+}
+
+.nav-tab-block {
+    border: 1px solid #dee2e6;
+}
+
+.btn-top-home {
+    margin-top: 1rem;
+    font-size: large;
+}
+
+.btn-down-home {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: large;
+}
+
+.lvl-two-container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.ui.label.circular {
+    min-width: 2.8em;
+    min-height: 2.8em;
+    padding: .9em !important;
+    line-height: 1em;
+    text-align: center !important;
+    border-radius: 500em;
+}
+
+.ui.label {
+    display: inline-block;
+    line-height: 1;
+    vertical-align: baseline;
+    margin: 0 .11111111em;
+    background-color: #edf9ff;
+    background-image: none;
+    padding: .5833em .833em;
+    color: rgba(0, 0, 0, .6);
+    text-transform: none;
+    font-weight: 400;
+    border: 0 solid transparent;
+    border-radius: .22222222rem;
+    -webkit-transition: background .1s ease;
+    transition: background .1s ease;
+}
